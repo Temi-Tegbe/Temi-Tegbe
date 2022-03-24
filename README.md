@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temi-tegbe" alt="temi-tegbe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tegbetemiloluwa" target="blank"><img src="https://img.shields.io/twitter/follow/tegbetemiloluwa?logo=twitter&style=for-the-badge" alt="tegbetemiloluwa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/temitegbe" target="blank"><img src="https://img.shields.io/twitter/follow/tegbetemiloluwa?logo=twitter&style=for-the-badge" alt="tegbetemiloluwa" /></a> </p>
 
 - 🔭 I’m currently working on **bunch of projects that I cannot talk about due to NDA**
 
