@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Temiloluwa Tegbe</h1>
-<h3 align="center">A highly motivated engineer with the desire to see the software developed meeting solution needs and all test requirements. Interested in opportunities that provide career growth and innovative solution preferment for company needs.</h3>
+<h3 align="center">Senior Backend Engineer and Engineering Lead with hands-on experience designing, building and maintaining financial
+technology products across payments, digital lending, banking and investment management. Strong background in C#/.NET,
+microservices, distributed systems, API integrations and relational data systems. Experienced in leading cross-functional
+engineering teams and delivering financial products from architecture through production, including payment gateways,
+merchant payouts, Direct Debit, loan origination and disbursement workflows. Brings practical knowledge of Nigerian and
+wider African financial infrastructure, banking integrations and payment operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temi-tegbe&label=Profile%20views&color=0e75b6&style=flat" alt="temi-tegbe" /> </p>
 
